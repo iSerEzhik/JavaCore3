@@ -8,7 +8,6 @@ import java.util.concurrent.locks.ReentrantLock;
 public class MainClass {
     public static final int CARS_COUNT = 4;
     public static final CountDownLatch waitForStart = new CountDownLatch(CARS_COUNT);
-    public static final CyclicBarrier preparing = new CyclicBarrier(CARS_COUNT);
     public static final CyclicBarrier ready = new CyclicBarrier(CARS_COUNT);
     public static final CountDownLatch fullRace = new CountDownLatch(CARS_COUNT) ;
     public static final Semaphore stageControl = new Semaphore(CARS_COUNT/2);
