@@ -1,0 +1,76 @@
+К нам подключился Serega
+Serega: das
+К нам подключился Serega
+Serega: dasdas
+Serega: czxc
+Serega: zx
+Serega: sdg
+Serega: c
+Serega: vbc
+Serega: sd
+Serega: f
+Serega: sd
+Serega: f
+Serega: sdf
+Serega: s
+Serega Leave chat
+К нам подключился client1
+ Leave chat
+ Leave chat
+Serega: dasd
+Serega: asda
+Serega: sd
+Serega: as
+Serega: da
+Serega: sd
+Serega: asd
+client2: 1
+client2: 312
+client2: 2342
+client2: 35
+client2: 34
+client2: 645
+client2: 7
+client2: 658
+client2: 5
+client3: asd
+client3: cxz
+client3: csd
+client3: sd
+client3: a
+client3: d
+client3: asdq
+client3: we
+client1: asdasd
+client1: zx
+client1: bx
+client1: b
+client1: s
+client1: df
+client1: sa
+client1: a
+client1: wqe
+client1: rsa
+client1: d
+client1: qwe
+client1: as
+client1: d
+client1: a
+client1: xcv
+Serega: =======================================================
+Serega Leave chat
+client2: asdasd
+client2: asdas
+client2: dxzc
+client2: asd
+client2: qw
+client2: eq
+client2: rew
+client2: as
+client2: d
+Hello Serega
+Serega Leave chat
+client2 Leave chat
+client4 Leave chat
+client3 Leave chat
+client1 Leave chat
